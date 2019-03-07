@@ -33,15 +33,16 @@ p {
 	margin: 0;
 }
 
-ul {
-	padding: 0;
-	margin: 30px auto;
-}
 
 .action {
 	width: 60%;
 	margin: 0 auto;
 	padding: 10px;
+}
+
+ul {
+	padding: 0;
+	margin: 30px auto;
 }
 
 .list-item {
@@ -87,7 +88,7 @@ ul {
 
 .label-item {
 	display: inline-block;
-	margin-left: 10px;
+	margin-left: 9px;
 	font-size: 20px;
 	color: #f9f9f9;
 	padding: 5px;
